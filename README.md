@@ -53,11 +53,13 @@
 ```
 
 Авторизуемся в кабинете Zabbix:
-![Авторизация](https://github.com/starikam/8-03-hw/blob/main/img/2026-02-18_15-21-54.png?raw=true)`
+
+![Авторизация](https://github.com/starikam/8-03-hw/blob/main/img/2026-02-18_15-21-54.png?raw=true)
 
 ### Задание 2 
 
 # Подключаем хосты:
+```
  - wget https://repo.zabbix.com/zabbix/7.4/release/ubuntu/pool/main/z/zabbix-release/zabbix-release_latest_7.4+ubuntu24.04_all.deb
  - sudo dpkg -i zabbix-release_latest_7.4+ubuntu24.04_all.deb
  - sudo apt update
@@ -66,16 +68,19 @@
  - sudo systemctl start zabbix-agent
  - sudo systemctl enable zabbix-agent
  - sudo systemctl status zabbix-agent
+```
 
-![Хосты](https://github.com/starikam/8-03-hw/blob/main/img/2026-02-18_15-49-40.png?raw=true)`
+![Хосты](https://github.com/starikam/8-03-hw/blob/main/img/2026-02-18_15-49-40.png?raw=true)
 
 # Лог агента:
-![Агент](https://github.com/starikam/8-03-hw/blob/main/img/2026-02-18_15-49-40.png?raw=true](https://github.com/starikam/8-03-hw/blob/main/img/2026-02-18_15-54-15.png?raw=true)`
+
+![Агент](https://github.com/starikam/8-03-hw/blob/main/img/2026-02-18_15-49-40.png?raw=true](https://github.com/starikam/8-03-hw/blob/main/img/2026-02-18_15-54-15.png?raw=true)
 
 # Разделы Мониторинга:
-![Агент 1](https://github.com/starikam/8-03-hw/blob/main/img/2026-02-18_15-50-34.png?raw=true)`
 
-![Агент 2](https://github.com/starikam/8-03-hw/blob/main/img/2026-02-18_15-49-40.png?raw=true)`
+![Агент 1](https://github.com/starikam/8-03-hw/blob/main/img/2026-02-18_15-50-34.png?raw=true)
+
+![Агент 2](https://github.com/starikam/8-03-hw/blob/main/img/2026-02-18_15-49-40.png?raw=true)
 
 
 
