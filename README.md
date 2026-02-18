@@ -73,14 +73,10 @@
 ![Хосты](https://github.com/starikam/8-03-hw/blob/main/img/2026-02-18_15-49-40.png?raw=true)
 
 # Лог агента:
-
-![Агент](https://github.com/starikam/8-03-hw/blob/main/img/2026-02-18_15-49-40.png?raw=true)
+![Агент](https://github.com/starikam/8-03-hw/blob/main/img/2026-02-18_15-54-15.png?raw=true)
 
 # Разделы Мониторинга:
 
 ![Агент 1](https://github.com/starikam/8-03-hw/blob/main/img/2026-02-18_15-50-34.png?raw=true)
 
-![Агент 2](https://github.com/starikam/8-03-hw/blob/main/img/2026-02-18_15-49-40.png?raw=true)
-
-
-
+![Агент 2](https://github.com/starikam/8-03-hw/blob/main/img/2026-02-18_15-50-46.png?raw=true)
