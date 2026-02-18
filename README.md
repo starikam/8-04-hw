@@ -52,4 +52,4 @@
  - sudo systemctl enable zabbix-server zabbix-agent apache2
 
 Авторизуемся в кабинете Zabbix:
-![Авторизация]([https://github.com/starikam/8-03-hw/blob/main/img/2026-02-18_15-21-54.png?raw=true])`
+![Авторизация](https://github.com/starikam/8-03-hw/blob/main/img/2026-02-18_15-21-54.png?raw=true)`
